@@ -1,2 +1,2 @@
 # TODO-APP
-Improved version
+Simple TODO-APP
