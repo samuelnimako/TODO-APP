@@ -21,6 +21,4 @@ Easily add tasks with a date and remove them when completed.
 Nimako Samuel
 Frontend Developer | Learning Backend | Aspiring Full-Stack Engineer
 
-⭐️ Support
 
-If you like this project, give it a ⭐️
