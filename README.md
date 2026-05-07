@@ -16,9 +16,6 @@ Easily add tasks with a date and remove them when completed.
 	•	JavaScript
 
 
-👨‍💻 Author
 
-Nimako Samuel
-Frontend Developer | Learning Backend | Aspiring Full-Stack Engineer
 
 
