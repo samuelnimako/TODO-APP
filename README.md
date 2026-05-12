@@ -10,6 +10,26 @@ Easily add tasks with a date and remove them when completed.
 	•	🧹 Clear all completed tasks
 	•	🧾 Clean and responsive UI
 
+
+	📸 Screenshots
+
+
+
+
+<p align="center">
+  <img src="images/Screenshot 2026-05-12 004532.png" width="45%" />
+  <img src="images/Screenshot 2026-05-12 004701.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/Screenshot 2026-05-12 004714.png" width="45%" />
+  <img src="images/Screenshot 2026-05-12 004720.png" width="45%" />
+</p>
+
+
+
+	
+
 🛠️ Tech Stack
 	•	HTML
 	•	CSS
